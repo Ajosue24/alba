@@ -12,7 +12,6 @@ public class UserController {
         user.setId(1L);
         user.setName("John Doe");
         user.setEmail( "some@gmail.com");
-        //Hola luis
         return user;
     }
 
